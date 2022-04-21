@@ -1,0 +1,26 @@
+FileNames byte  "categories\Food.txt",0,0,0,0,0,0,0
+          byte   "categories\Movies.txt",0,0,0,0,0
+		  byte   "categories\Oceans.txt",0,0,0,0,0
+		  byte   "categories\Cars.txt",0,0,0,0,0,0,0
+		  byte    "categories\Cities.txt",0,0,0,0,0
+		  byte    "categories\Countries.txt",0,0
+		  byte    "categories\Days.txt",0,0,0,0,0,0,0
+		  byte    "categories\Continents.txt",0
+		  byte    "categories\Animals.txt",0,0,0,0
+		  byte    "categories\Brands.txt",0,0,0,0,0
+		  byte    "categories\Fruits.txt",0,0,0,0,0
+		  byte    "categories\Months.txt",0,0,0,0,0
+		  byte    "categories\Names.txt",0,0,0,0,0,0
+		  byte    "categories\Birds.txt",0,0,0,0,0,0
+					
+
+
+FileNames	  byte  "categories\Pronouns.txt",0,0,0,0,0
+          	  byte   "categories\Nouns(con).txt",0
+		  byte   "categories\Adjectives.txt",0
+		  byte   "categories\Conjunct.txt",0,0,0
+		  byte    "categories\Hverbs.txt",0,0,0,0,0
+		  byte    "categories\Articles.txt",0,0,0
+		  byte    "categories\Interject.txt",0,0
+
+					
